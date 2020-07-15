@@ -3,5 +3,5 @@ Fast tool for control Yeelight Ceiling Light - Color temperature, brightness, da
 
 Shittiest code ever made, but works.
 
-Double click on the ip for change with yours.
-
+Double click on IP label for change with your device address
+Double click on blank space to set the tool on topmost
